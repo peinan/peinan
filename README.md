@@ -21,6 +21,14 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 - ❤️ &nbsp; I love research, development and design
 - 💬 &nbsp; Ask me about anything [here](https://github.com/peinan/peinan/issues)
 
+### Selected Publications
+
+- Soichiro Murakami, <b><ins>Peinan Zhang</ins></b>, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising**. _Proceedings of the NAACL-HLT 2022 Industry Track_ [[paper](https://arxiv.org/abs/2204.11445)]
+- Syunyo Kawamoto, Yu Sawai, Kohei Wakimoto, <b><ins>Peinan Zhang</ins></b>. **FAST: Fast Annotation tool for SmarT devices**. _Proceedings of the EMNLP 2021 System Demonstrations_ [[paper](https://aclanthology.org/2021.emnlp-demo.41)]
+- Hidetaka Kamigaito\*, <b><ins>Peinan Zhang</ins></b>\*[^1], Hiroya Takamura, Manabu Okumura. **An Empirical Study of Generating Texts for Search-Engine Advertisingg**. _Proceedings of the NAACL-HLT 2021 Industry Track_ [[paper](https://www.aclweb.org/anthology/2021.naacl-industry.32)]
+
+[^1]: `*` means the same contribution
+
 ### Skills
 
 **Languages**
@@ -65,16 +73,6 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 ![Static Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white)
 
-
-### Selected Publications
-
-- Soichiro Murakami, <b><ins>Peinan Zhang</ins></b>, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising**. _Proceedings of the NAACL-HLT 2022 Industry Track_ [[paper](https://arxiv.org/abs/2204.11445)]
-- Syunyo Kawamoto, Yu Sawai, Kohei Wakimoto, <b><ins>Peinan Zhang</ins></b>. **FAST: Fast Annotation tool for SmarT devices**. _Proceedings of the EMNLP 2021 System Demonstrations_ [[paper](https://aclanthology.org/2021.emnlp-demo.41)]
-- Hidetaka Kamigaito\*, <b><ins>Peinan Zhang</ins></b>\*[^1], Hiroya Takamura, Manabu Okumura. **An Empirical Study of Generating Texts for Search-Engine Advertisingg**. _Proceedings of the NAACL-HLT 2021 Industry Track_ [[paper](https://www.aclweb.org/anthology/2021.naacl-industry.32)]
-
-[^1]: `*` means the same contribution
-
-#
 
 <div align='center'>
   <!-- GitHub Stats -->
