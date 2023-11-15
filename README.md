@@ -26,10 +26,10 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 **Languages**
 
 ![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-ShellScript-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-ShellScript-111111?style=flat-square&logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
@@ -39,6 +39,9 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 
 ![Static Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-555555?style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=Polars&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
@@ -61,6 +64,7 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 ![Static Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white)
+
 
 ### Selected Publications
 
