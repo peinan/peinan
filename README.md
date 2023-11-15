@@ -62,7 +62,7 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 - Syunyo Kawamoto, Yu Sawai, Kohei Wakimoto, <b><ins>Peinan Zhang</ins></b>. **FAST: Fast Annotation tool for SmarT devices**. _Proceedings of the EMNLP 2021 System Demonstrations_ [[paper](https://aclanthology.org/2021.emnlp-demo.41)]
 - Hidetaka Kamigaito\*, <b><ins>Peinan Zhang</ins></b>\*[^1], Hiroya Takamura, Manabu Okumura. **An Empirical Study of Generating Texts for Search-Engine Advertisingg**. _Proceedings of the NAACL-HLT 2021 Industry Track_ [[paper](https://www.aclweb.org/anthology/2021.naacl-industry.32)]
 
-[^1]: Same contribution
+[^1]: `*` means the same contribution
 
 #
 
