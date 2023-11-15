@@ -1,9 +1,12 @@
 <p align="center"><a href="https://peinan.cc"><img width="100%" alt="Hello, I'm Peinan." src="./assets/gh-readme-header.png" /></a></p>
 <div align="center">
-  
+
+  [![Portfolio Badge](https://img.shields.io/badge/-❖%20Portfolio-F68315?style=flat-square)](https://peinan.cc)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/so1owingpixy)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peinan-zhang-b5991994/)
   [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:peinan7@gmail.com)
+  [![CyberAgent](https://img.shields.io/badge/-CyberAgent-2D8C3C?style=flat-square&logo=ameba&logoColor=white
+)](https://www.cyberagent.co.jp/en/)
 </div>
 
 <br>
@@ -20,7 +23,8 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 
 ### Skills
 
-#### Languages
+**Languages**
+
 ![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-ShellScript-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)
@@ -29,9 +33,10 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 ![Static Badge](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+**Frameworks**
 
-#### Frameworks
 ![Static Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-555555?style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -41,14 +46,15 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 ![Static Badge](https://img.shields.io/badge/-Starship-DD0B78?style=flat-square&logo=Starship&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white)
 
-#### Tools
+**Tools**
+
 ![Static Badge](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
@@ -76,10 +82,10 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
   </a>
   <!-- Language Card -->
   <a href="https://github.com/peinan#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Extensions&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Top%20Used%20Languages&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl,jupyter%20notebook&theme=github_dark" />
   </a>
   <a href="https://github.com/peinan#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Extensions&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Top%20Used%20Languages&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl,jupyter%20notebook" />
   </a>
 </div>
 
