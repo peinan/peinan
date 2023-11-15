@@ -1,3 +1,5 @@
+<p align="center"><a href="https://peinan.cc"><img width="100%" alt="Hello, I'm Peinan." src="./assets/gh-readme-header.png" /></a></p>
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/so1owingpixy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peinan-zhang-b5991994/)
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:peinan7@gmail.com)
