@@ -51,6 +51,24 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 ![Static Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white)
 
+#
+
+<div align='center'>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/peinan#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=peinan&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/peinan#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=peinan&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true" />
+  </a>
+  <!-- Language Card -->
+  <a href="https://github.com/peinan#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Extensions&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl&theme=github_dark" />
+  </a>
+  <a href="https://github.com/peinan#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Extensions&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl" />
+  </a>
+</div>
 
 #
 
