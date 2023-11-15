@@ -16,10 +16,10 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 
 ### About me
 
-- 📚 &nbsp; I'm specialized in natural language processing (NLP), especially natural language generation
-- 🔍 &nbsp; I also interested in language modeling, evaluation, and multimodality
-- ❤️ &nbsp; I love research, development and design
-- 💬 &nbsp; Ask me about anything [here](https://github.com/peinan/peinan/issues)
+📚 &nbsp; I'm specialized in natural language processing (NLP), especially natural language generation<br>
+🔍 &nbsp; I also interested in language modeling, evaluation, and multimodality<br>
+❤️ &nbsp; I love research, development and design<br>
+💬 &nbsp; Ask me about anything [here](https://github.com/peinan/peinan/issues)<br>
 
 ### Selected Publications
 
