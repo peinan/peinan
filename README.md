@@ -1,17 +1,22 @@
 <p align="center"><a href="https://peinan.cc"><img width="100%" alt="Hello, I'm Peinan." src="./assets/gh-readme-header.png" /></a></p>
+<div align="center">
+  
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/so1owingpixy)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peinan-zhang-b5991994/)
+  [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:peinan7@gmail.com)
+</div>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/so1owingpixy)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peinan-zhang-b5991994/)
-[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:peinan7@gmail.com)
+<br>
 
 I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberagent.ai/ailab/), Tokyo 🇯🇵
 
+
 ### About me
 
-- 📚 Specialized in natural language processing (NLP), especially natural language generation
-- 🔍 Also interested in language modeling, evaluation, and multimodality
-- ❤️ Loves both research and development
-- 💬 Ask me about anything [here](https://github.com/peinan/peinan/issues)
+- 📚 &nbsp; I'm specialized in natural language processing (NLP), especially natural language generation
+- 🔍 &nbsp; I also interested in language modeling, evaluation, and multimodality
+- ❤️ &nbsp; I love research, development and design
+- 💬 &nbsp; Ask me about anything [here](https://github.com/peinan/peinan/issues)
 
 ### Skills
 
@@ -51,6 +56,14 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 ![Static Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white)
 
+### Selected Publications
+
+- Soichiro Murakami, <b><ins>Peinan Zhang</ins></b>, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising**. _Proceedings of the NAACL-HLT 2022 Industry Track_ [[paper](https://arxiv.org/abs/2204.11445)]
+- Syunyo Kawamoto, Yu Sawai, Kohei Wakimoto, <b><ins>Peinan Zhang</ins></b>. **FAST: Fast Annotation tool for SmarT devices**. _Proceedings of the EMNLP 2021 System Demonstrations_ [[paper](https://aclanthology.org/2021.emnlp-demo.41)]
+- Hidetaka Kamigaito\*, <b><ins>Peinan Zhang</ins></b>\*[^1], Hiroya Takamura, Manabu Okumura. **An Empirical Study of Generating Texts for Search-Engine Advertisingg**. _Proceedings of the NAACL-HLT 2021 Industry Track_ [[paper](https://www.aclweb.org/anthology/2021.naacl-industry.32)]
+
+[^1]: Same contribution
+
 #
 
 <div align='center'>
@@ -77,3 +90,4 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+<br>
