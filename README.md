@@ -27,13 +27,13 @@ I'm a Research Scientist/Engineer/Manager at [CyberAgent AI Lab](https://cyberag
 
 - **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising** [[paper](https://arxiv.org/abs/2204.11445)]
   - Soichiro Murakami, <ins>Peinan Zhang</ins>, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
-  - In _NAACL-HLT 2022 Industry Track (acceptance rate: 32%)_
+  - In _NAACL-HLT 2022 Industry Track_ (acceptance rate: 32%)
 - **FAST: Fast Annotation tool for SmarT devices** [[paper](https://aclanthology.org/2021.emnlp-demo.41)]
   - Syunyo Kawamoto, Yu Sawai, Kohei Wakimoto, <ins>Peinan Zhang</ins>
-  - In _EMNLP 2021 System Demonstrations (acceptance rate: 32%)_
+  - In _EMNLP 2021 System Demonstrations_ (acceptance rate: 32%)
 - **An Empirical Study of Generating Texts for Search-Engine Advertisingg** [[paper](https://www.aclweb.org/anthology/2021.naacl-industry.32)]
   - Hidetaka Kamigaito\*, <ins>Peinan Zhang</ins>\*, Hiroya Takamura, Manabu Okumura
-  - In _NAACL-HLT 2021 Industry Track (acceptance rate: 29.5%)_
+  - In _NAACL-HLT 2021 Industry Track_ (acceptance rate: 29.5%)
 
 ### Skills
 
