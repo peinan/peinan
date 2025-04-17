@@ -25,25 +25,28 @@ I'm a Senior Research Scientist/Engineer/Manager at [AI Lab](https://cyberagent.
 
 ### Selected Publications
 
-- **AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising** [[paper](https://arxiv.org/pdf/2408.05906)]
+- **AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising** [[Paper](https://arxiv.org/pdf/2408.05906)]
   - <ins>Peinan Zhang</ins>, Yusuke Sakai, Masato Mita, Hiroki Ouchi, Taro Watanabe
   - In _NAACL 2025_ (To Appear)
-- **Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation** [[paper](https://aclanthology.org/2024.acl-long.54/)]
+- **AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts** [[Paper](https://www.arxiv.org/abs/2502.04674)]
+  - Soichiro Murakami, <ins>Peinan Zhang</ins>, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
+  - In _NAACL 2025 Findings_ (To Appear)
+- **Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation** [[Paper](https://aclanthology.org/2024.acl-long.54/)]
   - Masato Mita, Soichiro Murakami, Akihiko Kato, <ins>Peinan Zhang</ins>
-  - In _ACL 2024_
-- **Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding** [[paper](https://aclanthology.org/2024.tacl-1.70/)]
+  - In _ACL 2024_ (Acceptance rate:  21.3%)
+- **Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding** [[Paper](https://aclanthology.org/2024.tacl-1.70/)]
   - Ukyo Honda, Tatsushi Oka, <ins>Peinan Zhang</ins>, Masato Mita
   - In _TACL_, Presented at EMNLP 2024
-- **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising** [[paper](https://arxiv.org/abs/2204.11445)]
+- **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising** [[Paper](https://arxiv.org/abs/2204.11445)]
   - Soichiro Murakami, <ins>Peinan Zhang</ins>, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
-  - In _NAACL-HLT 2022 Industry Track_ (acceptance rate: 32%)
-- **FAST: Fast Annotation tool for SmarT devices** [[paper](https://aclanthology.org/2021.emnlp-demo.41)] [[code](https://github.com/CyberAgent/fast-annotation-tool)] [[Project Page](https://www.fast-annotation-tool.app/)]
+  - In _NAACL-HLT 2022 Industry Track_ (Acceptance rate: 32%)
+- **FAST: Fast Annotation tool for SmarT devices** [[Paper](https://aclanthology.org/2021.emnlp-demo.41)] [[Code](https://github.com/CyberAgent/fast-annotation-tool)] [[Project Page](https://www.fast-annotation-tool.app/)]
   - Syunyo Kawamoto, Yu Sawai, Kohei Wakimoto, <ins>Peinan Zhang</ins>
-  - In _EMNLP 2021 System Demonstrations_ (acceptance rate: 32%)
-- **An Empirical Study of Generating Texts for Search-Engine Advertisingg** [[paper](https://www.aclweb.org/anthology/2021.naacl-industry.32)]
+  - In _EMNLP 2021 System Demonstrations_ (Acceptance rate: 32%)
+- **An Empirical Study of Generating Texts for Search-Engine Advertisingg** [[Paper](https://www.aclweb.org/anthology/2021.naacl-industry.32)]
   - Hidetaka Kamigaito\*, <ins>Peinan Zhang</ins>\*, Hiroya Takamura, Manabu Okumura
     - \* Equal Contribution
-  - In _NAACL-HLT 2021 Industry Track_ (acceptance rate: 29.5%)
+  - In _NAACL-HLT 2021 Industry Track_ (Acceptance rate: 29.5%)
 
 ### Skills
 
