@@ -27,13 +27,13 @@ I'm a Senior Research Scientist/Engineer/Manager at [AI Lab](https://cyberagent.
 
 - **AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising** [[paper](https://arxiv.org/pdf/2408.05906)]
   - <ins>Peinan Zhang</ins>, Yusuke Sakai, Masato Mita, Hiroki Ouchi, Taro Watanabe
-  - In _Proceedings of the North American Chapter of the Association for Computational Linguistics 2025_ (To Appear)
+  - In _NAACL 2025_ (To Appear)
 - **Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation** [[paper](https://aclanthology.org/2024.acl-long.54/)]
   - Masato Mita, Soichiro Murakami, Akihiko Kato, <ins>Peinan Zhang</ins>
-  - In _Proceedings of the Association for Computational Linguistics (ACL) 2024_
+  - In _ACL 2024_
 - **Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding** [[paper](https://aclanthology.org/2024.tacl-1.70/)]
   - Ukyo Honda, Tatsushi Oka, <ins>Peinan Zhang</ins>, Masato Mita
-  - In _Transactions of the Association for Computational Linguistics (TACL)_, Presented at EMNLP 2024
+  - In _TACL_, Presented at EMNLP 2024
 - **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising** [[paper](https://arxiv.org/abs/2204.11445)]
   - Soichiro Murakami, <ins>Peinan Zhang</ins>, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
   - In _NAACL-HLT 2022 Industry Track_ (acceptance rate: 32%)
