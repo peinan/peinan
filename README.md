@@ -21,21 +21,21 @@ I'm a Senior Research Scientist/Engineer/Manager at [AI Lab](https://cyberagent.
 📚 &nbsp; I'm specialized in natural language processing (NLP), especially natural language generation<br>
 🔍 &nbsp; I also interested in language modeling, evaluation, and multimodality<br>
 ❤️ &nbsp; I love research, development and design<br>
-💬 &nbsp; Ask me about anything [here](https://github.com/peinan/peinan/issues)<br>
+💬 &nbsp; Ask me about anything [_here_](https://github.com/peinan/peinan/issues)<br>
 
 ### Selected Publications
 
-- **AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset** [[Paper](https://arxiv.org/abs/2505.20826)]
+- **AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset** [[Paper](https://arxiv.org/abs/2505.20826)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdParaphrase-v2.0)]
   - Murakami Soichiro, <ins>Peinan Zhang</ins>, Hidetaka Kamigaito, Hiroya Takamura, and Manabu Okumura
   - In _ACL 2025 Findings_ (To Appear)
-- **AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising** [[Paper](https://arxiv.org/pdf/2408.05906)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdTEC)] [[Project Page](https://cyberagentailab.github.io/AdTEC/)]
+- **AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising** [[Project Page](https://cyberagentailab.github.io/AdTEC/)] [[Paper](https://arxiv.org/pdf/2408.05906)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdTEC)]
   - <ins>Peinan Zhang</ins>, Yusuke Sakai, Masato Mita, Hiroki Ouchi, and Taro Watanabe
   - In _NAACL 2025_
-- **AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts** [[Paper](https://www.arxiv.org/abs/2502.04674)]
+- **AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts** [[Paper](https://www.arxiv.org/abs/2502.04674)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdParaphrase)]
   - Soichiro Murakami, <ins>Peinan Zhang</ins>, Hidetaka Kamigaito, Hiroya Takamura, and Manabu Okumura
   - In _NAACL 2025 Findings_
 
-See all publications at [here](https://orcabrig.notion.site/publications).
+See all publications [_here_](https://orcabrig.notion.site/publications).
 
 ### Skills
 
