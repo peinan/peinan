@@ -23,6 +23,8 @@ I'm a Senior Research Scientist/Engineer/Manager at [AI Lab](https://cyberagent.
 ❤️ &nbsp; I love research, development and design<br>
 💬 &nbsp; Ask me about anything [_here_](https://github.com/peinan/peinan/issues)<br>
 
+You can find my CV [_here_](https://github.com/peinan/peinan/blob/main/CV.pdf)
+
 ### Selected Publications
 
 - **AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset** [[Paper](https://arxiv.org/abs/2505.20826)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdParaphrase-v2.0)]
