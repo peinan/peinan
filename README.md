@@ -18,12 +18,12 @@ I'm a Senior Research Scientist/Engineer/Manager at [AI Lab](https://cyberagent.
 
 ### About me
 
-📚 &nbsp; I'm specialized in natural language processing (NLP), especially natural language generation<br>
-🔍 &nbsp; I also interested in language modeling, evaluation, and multimodality<br>
-❤️ &nbsp; I love research, development and design<br>
-💬 &nbsp; Ask me about anything [_here_](https://github.com/peinan/peinan/issues)<br>
+📚 &nbsp; I'm specialized in natural language processing (NLP), especially natural language generation.<br>
+🔍 &nbsp; I also interested in language modeling, evaluation, and multimodality.<br>
+❤️ &nbsp; I love research, development and design.<br>
+💬 &nbsp; Ask me about anything [_here_](https://github.com/peinan/peinan/issues).<br>
 
-You can find my CV [_here_](https://github.com/peinan/peinan/blob/main/CV.pdf)
+You can find my CV [_here_](https://github.com/peinan/peinan/blob/main/CV.pdf).
 
 ### Selected Publications
 
