@@ -29,7 +29,7 @@ You can find my CV [_here_](https://github.com/peinan/peinan/blob/main/CV.pdf).
 
 - **AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset** [[Paper](https://arxiv.org/abs/2505.20826)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdParaphrase-v2.0)]
   - Murakami Soichiro, <ins>Peinan Zhang</ins>, Hidetaka Kamigaito, Hiroya Takamura, and Manabu Okumura
-  - In _ACL 2025 Findings_ (To Appear)
+  - In _ACL 2025 Findings_
 - **AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising** [[Project Page](https://cyberagentailab.github.io/AdTEC/)] [[Paper](https://arxiv.org/pdf/2408.05906)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdTEC)]
   - <ins>Peinan Zhang</ins>, Yusuke Sakai, Masato Mita, Hiroki Ouchi, and Taro Watanabe
   - In _NAACL 2025_
