@@ -26,10 +26,10 @@ I'm a Senior Research Scientist/Engineer/Manager at [AI Lab](https://cyberagent.
 You can find my CV [_here_](https://github.com/peinan/peinan/blob/main/CV.pdf).
 
 ### Recent Publications
-- **BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences**
+- **BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences** [[Paper](https://aclanthology.org/2025.findings-emnlp.1311/)] [[Dataset](https://huggingface.co/datasets/cyberagent/BannerBench)]
   - Hiroto Otake, <ins>Peinan Zhang</ins>, Yusuke Sakai, Masato Mita, Hiroki Ouchi, and Taro Watanabe
   - In _EMNLP 2025 Findings_
-- **Distilling Many-Shot In-Context Learning into a Cheat Sheet**
+- **Distilling Many-Shot In-Context Learning into a Cheat Sheet** [[Paper](https://aclanthology.org/2025.findings-emnlp.930/)]
   - Ukyo Honda, Soichiro Murakami, and <ins>Peinan Zhang</ins>
   - In _EMNLP 2025 Findings_
 - **AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset** [[Paper](https://arxiv.org/abs/2505.20826)] [[Dataset](https://huggingface.co/datasets/cyberagent/AdParaphrase-v2.0)]
