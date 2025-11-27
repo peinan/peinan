@@ -13,7 +13,7 @@
 
 <br>
 
-I'm a Senior Research Scientist/Engineer/Manager at [AI Lab](https://cyberagent.ai/ailab/), [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/), Tokyo 🇯🇵
+I'm a Researcher/Engineer/Manager at [AI Lab](https://cyberagent.ai/ailab/), [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/), Tokyo 🇯🇵
 
 
 ### About me
