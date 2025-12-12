@@ -89,6 +89,10 @@ You can find all publications [_here_](https://orcabrig.notion.site/publications
 ![Static Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white)
 
+---
+
+<div align="center">
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
