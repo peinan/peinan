@@ -13,7 +13,7 @@
 
 <br>
 
-I'm a Researcher/Engineer/Manager at [AI Lab](https://cyberagent.ai/ailab/), [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/), Tokyo 🇯🇵
+I'm a researcher, engineer, and manager at [AI Lab](https://cyberagent.ai/ailab/), [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/), in Tokyo 🇯🇵
 
 
 ### About me
@@ -42,7 +42,7 @@ You can find my CV [_here_](https://github.com/peinan/peinan/blob/main/CV.pdf).
   - Soichiro Murakami, <ins>Peinan Zhang</ins>, Hidetaka Kamigaito, Hiroya Takamura, and Manabu Okumura
   - In _NAACL 2025 Findings_
 
-See all publications [_here_](https://orcabrig.notion.site/publications).
+You can find all publications [_here_](https://orcabrig.notion.site/publications).
 
 ### Skills
 
@@ -88,28 +88,6 @@ See all publications [_here_](https://orcabrig.notion.site/publications).
 ![Static Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white)
-
-
-<div align='center'>
-  <!-- GitHub Stats -->
-  <a href="https://github.com/peinan#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=peinan&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true&theme=github_dark" />
-  </a>
-  <a href="https://github.com/peinan#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=peinan&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true" />
-  </a>
-  <!-- Language Card -->
-  <a href="https://github.com/peinan#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Top%20Used%20Languages&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl,jupyter%20notebook&theme=github_dark" />
-  </a>
-  <a href="https://github.com/peinan#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peinan&custom_title=Top%20Used%20Languages&langs_count=3&hide_border=true&hide=forth,css,openedge%20abl,jupyter%20notebook" />
-  </a>
-</div>
-
-#
-
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
