@@ -108,9 +108,8 @@ See more [_here_](https://orcabrig.notion.site/articles-and-talks?v=40f8534b3a89
 [![Website](https://img.shields.io/badge/-❖%20peinan.cc-F68315?style=flat-square)](https://peinan.cc)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Peinan%20Zhang-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/peinan-zhang)
 [![X](https://img.shields.io/badge/@so1owingpixy-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/so1owingpixy)
-[![Static Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.co.jp/citations?user=FTzaySkAAAAJ&hl=en&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.co.jp/citations?user=FTzaySkAAAAJ&hl=en&oi=ao)
 [![CyberAgent](https://img.shields.io/badge/-CyberAgent-2D8C3C?style=flat-square&logo=ameba&logoColor=white)](https://cyberagent.ai/ailab/people/zhang-peinan/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:peinan7@gmail.com)
+[![CV](https://img.shields.io/badge/CV-333?style=flat-square&logo=github&logoColor=white)](https://github.com/peinan/peinan/blob/main/CV.pdf)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/peinan)
-
-See my CV [_here_](https://github.com/peinan/peinan/blob/main/CV.pdf).
