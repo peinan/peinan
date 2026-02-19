@@ -27,62 +27,79 @@ See all publications [_here_](https://orcabrig.notion.site/publications).
 
 Prototyping to production, from research experiments to user-facing services.
 
-![Programming Languages](https://img.shields.io/badge/-Programming_Languages-333?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=flat-square)
-![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-
-![Frameworks](https://img.shields.io/badge/-Frameworks-333?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-555555?style=flat-square&logoColor=white)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=Polars&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat-square)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat-square)
-
-![Environment](https://img.shields.io/badge/-Environment-333?style=for-the-badge)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=F0F0F0)
-![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term&style=flat-square)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat-square)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=flat-square)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=flat-square)
-![CLI/TUI](https://img.shields.io/badge/CLI%2FTUI-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-[![dotfiles](https://img.shields.io/badge/dotfiles-555?style=flat-square&logo=github&logoColor=white)](https://github.com/peinan/dotfiles)
-
-![Tools](https://img.shields.io/badge/-Tools-333?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat-square)
-![Codex](https://custom-icon-badges.demolab.com/badge/Codex-74aa9c?logo=openai&logoColor=white&style=flat-square)
-![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-1E1D1C?logo=figma&logoColor=white&style=flat-square)
-![Notion](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe&logoColor=white)
-![VuePress](https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=fff" alt="Python">
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Go">
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+      <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script">
+      <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+      <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=flat-square" alt="SQL">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="Javascript">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="Typescript">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-555555?style=flat-square&logoColor=white" alt="HuggingFace">
+      <img src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" alt="Numpy">
+      <img src="https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=Polars&logoColor=white" alt="Polars">
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat-square" alt="React">
+      <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat-square" alt="React Native">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Environment</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=F0F0F0" alt="macOS">
+      <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term&style=flat-square" alt="Ghostty">
+      <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat-square" alt="Zsh">
+      <img src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=flat-square" alt="tmux">
+      <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white" alt="Neovim">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=flat-square" alt="Homebrew">
+      <img src="https://img.shields.io/badge/CLI%2FTUI-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="CLI/TUI">
+      (See my <a href="https://github.com/peinan/dotfiles">dotfiles</a> for more)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat-square" alt="Claude">
+      <img src="https://custom-icon-badges.demolab.com/badge/Codex-74aa9c?logo=openai&logoColor=white&style=flat-square" alt="Codex">
+      <img src="https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=flat-square" alt="Arc">
+      <img src="https://img.shields.io/badge/Figma-1E1D1C?logo=figma&logoColor=white&style=flat-square" alt="Figma">
+      <img src="https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
+      <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe&logoColor=white" alt="Photoshop">
+      <img src="https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe&logoColor=white" alt="Lightroom">
+      <img src="https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square" alt="VuePress">
+      <img src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white" alt="Overleaf">
+    </td>
+  </tr>
+</table>
 
 ### Activities
 
 ![GitHub Activities](https://ghchart.rshah.org/peinan)
 
-## 📝 Writings, 🎙️ Talks, and  🎥 Media
+## Writings, Talks, and Media
 
-- 📝 [アンドロイドは「青信号」の夢を見るか？](https://zenn.dev/peinan/articles/do-androids-dream-of-blue-traffic-light) (Japanese) ― Explores whether VLMs trained in different languages draw different boundaries between "blue" and "green", inspired by the Japanese cultural practice of calling green things "blue"
-- 📝 [戦いは数だよ兄貴！Google Cloud Batch による並列化入門 〜LLMの前処理を例に〜](https://zenn.dev/peinan/articles/721a908599dcf7) (Japanese) ― Introduces the basics of parallelization using Google Cloud Batch, highlighting practical applications and the benefits of the service for handling big data
-- 🎙️ [広告理解と生成のためのNLPベンチマーク構築](https://cadc.cyberagent.co.jp/2023/sessions/ad-benchmark-creation/) (Japanese) ― Proposes two advertising-specific NLP benchmarks to standardize the evaluation of ad text understanding and generation
-- 🎙️ [自然言語処理を用いた効果的な広告テキストの自動生成](https://cadc.cyberagent.co.jp/2022/program/automatically-generate-effective-sales-copy/) (Japanese) ― Presents NLP-driven methods for automatically generating high-performing search ad texts, with real-world deployment in CyberAgent's "Kiwami" ad products
-- 🎙️ [効果を出す「AIの共同研究」 東京工業大学 奥村・高村研究室と創る自然言語処理の未来](https://www.cyberagent.co.jp/way/features/list/detail/id=25604) (Japanese) ― Highlights joint research with the Tokyo Institute of Technology on applying state-of-the-art NLP techniques to advertisement creation
-- 🎥 [効果を出すAI - サイバーエージェントのAI研究とビジネス実装力 -](https://www.youtube.com/watch?v=XuxNcucXSMU) (Japanese) ― A 5-min overview of CyberAgent's AI research and business implementation, featuring ad creative AI and industry–academia collaboration
+_All in Japanese_
+
+- **[Do Androids Dream of Blue Traffic Light?](https://zenn.dev/peinan/articles/do-androids-dream-of-blue-traffic-light)** ― Explores whether VLMs in different languages see "blue" and "green" differently
+- **[Google Cloud Batch Parallelization](https://zenn.dev/peinan/articles/721a908599dcf7)** ― Covers Google Cloud Batch basics with LLM pre-processing as an example
+- **[NLP Benchmark for Understanding and Generating Ads](https://cadc.cyberagent.co.jp/2023/sessions/ad-benchmark-creation/)** ― Proposes two advertising-specific NLP benchmarks
+- **[Effective Ad Text Generation](https://cadc.cyberagent.co.jp/2022/program/automatically-generate-effective-sales-copy/)** ― Presents ad text generation methods in CyberAgent's "Kiwami" ad products
+- **[Effective Joint Research](https://www.cyberagent.co.jp/way/features/list/detail/id=25604)** ― Deep dives into a joint research project with the Tokyo Institute of Technology
+- **[CyberAgent's AI Research and Business Implementation](https://www.youtube.com/watch?v=XuxNcucXSMU)** ― 5-min overview featuring ad creative AI
 
 See more [_here_](https://orcabrig.notion.site/articles-and-talks?v=40f8534b3a8940d08d2a7fae6ed82fac).
 
