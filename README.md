@@ -1,7 +1,7 @@
 <p align="center"><a href="https://peinan.cc"><img width="100%" alt="Hello, I'm Peinan." src="./assets/gh-readme-header.png" /></a></p>
 <div align="center">
 
-  [![Website](https://img.shields.io/badge/-❖%20peinan.cc%20%28Website%29-F68315?style=flat)](https://peinan.cc)
+  [![Website](https://img.shields.io/badge/-❖%20peinan.cc%20%28website%29-F68315?style=flat)](https://peinan.cc)
   [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/peinan--zhang-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/peinan-zhang)
   [![X](https://img.shields.io/badge/so1owingpixy-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/so1owingpixy)
   [![Static Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.co.jp/citations?user=FTzaySkAAAAJ&hl=en&oi=ao)
