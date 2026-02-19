@@ -94,9 +94,9 @@ Prototyping to production, from research experiments to user-facing services.
 
 _All in Japanese_
 
-- **[Do Androids Dream of Blue Traffic Light?](https://zenn.dev/peinan/articles/do-androids-dream-of-blue-traffic-light)** ― Do VLMs in different languages see "blue" and "green" differently?
+- **[Do Androids Dream of Blue Traffic Light?](https://zenn.dev/peinan/articles/do-androids-dream-of-blue-traffic-light)** ― Do VLMs in different languages see colors differently?
 - **[Google Cloud Batch Parallelization](https://zenn.dev/peinan/articles/721a908599dcf7)** ― With LLM pre-processing as an example
-- **[NLP Benchmark for Understanding and Generating Ads](https://cadc.cyberagent.co.jp/2023/sessions/ad-benchmark-creation/)** ― Proposes two advertising-specific NLP benchmarks
+- **[NLP Benchmark for Understanding and Generating Ads](https://cadc.cyberagent.co.jp/2023/sessions/ad-benchmark-creation/)** ― Presents two important benchmarks
 - **[Effective Ad Text Generation](https://cadc.cyberagent.co.jp/2022/program/automatically-generate-effective-sales-copy/)** ― Presents ad text generation methods in CyberAgent's "Kiwami" products
 - **[Effective Joint Research](https://www.cyberagent.co.jp/way/features/list/detail/id=25604)** ― Deep dives into a joint research project with the Tokyo Institute of Technology
 - **[CyberAgent's AI Research and Business Implementation](https://www.youtube.com/watch?v=XuxNcucXSMU)** ― 5-min overview featuring ad creative AI
