@@ -67,7 +67,7 @@ Prototyping to production, from research experiments to user-facing services.
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=flat-square" alt="Homebrew">
       <img src="https://img.shields.io/badge/CLI%2FTUI-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="CLI/TUI">
-      (See my <a href="https://github.com/peinan/dotfiles">dotfiles</a> for more)
+      <br/>(See my <a href="https://github.com/peinan/dotfiles">dotfiles</a> for more)
     </td>
   </tr>
   <tr>
@@ -88,7 +88,11 @@ Prototyping to production, from research experiments to user-facing services.
 
 ### Activities
 
-![GitHub Activities](https://ghchart.rshah.org/peinan)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peinan/peinan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peinan/peinan/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Writings, Talks, and Media
 
